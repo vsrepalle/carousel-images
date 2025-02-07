@@ -1,0 +1,82 @@
+[
+    {
+      "tournamentName": "VarasChessAcademy",
+      "isRated": true,
+      "location": "Hyd",
+      "date": "2023-10-01",
+      "filePath": "VarasChessAcademy_Rated_Hyd_2023-10-01.jpg",
+      "registrationDeadline": "2023-09-25",
+      "entryFee": 500,
+      "venue": "Hyderabad Chess Club, Banjara Hills",
+      "contact": {
+        "email": "info@varaschessacademy.com",
+        "phone": "+91-9876543210"
+      },
+      "organizer": "Varas Chess Academy",
+      "additionalDetails": "Open to all age groups. Refreshments will be provided."
+    },
+    {
+      "tournamentName": "TelanganaChessAcademy",
+      "isRated": false,
+      "location": "Chennai",
+      "date": "2023-09-15",
+      "filePath": "TelanganaChessAcademy_unrated_Chennai_2023-09-15.jpg",
+      "registrationDeadline": "2023-09-10",
+      "entryFee": 300,
+      "venue": "Chennai Chess Center, Anna Nagar",
+      "contact": {
+        "email": "support@telanganachessacademy.com",
+        "phone": "+91-9876543211"
+      },
+      "organizer": "Telangana Chess Academy",
+      "additionalDetails": "Unrated tournament for beginners and intermediate players."
+    },
+    {
+      "tournamentName": "TelanganaChessAcademy",
+      "isRated": true,
+      "location": "Chennai",
+      "date": "2023-09-15",
+      "filePath": "TelanganaChessAcademy_rated_Chennai_2023-09-15.jpg",
+      "registrationDeadline": "2023-09-10",
+      "entryFee": 600,
+      "venue": "Chennai Chess Center, Anna Nagar",
+      "contact": {
+        "email": "support@telanganachessacademy.com",
+        "phone": "+91-9876543211"
+      },
+      "organizer": "Telangana Chess Academy",
+      "additionalDetails": "Rated tournament for advanced players. Certificates will be awarded."
+    },
+    {
+      "tournamentName": "AkhilRepalleAcademy",
+      "isRated": true,
+      "location": "Hyd",
+      "date": "2023-10-05",
+      "filePath": "AkhilRepalleAcademy_Rated_Hyd_2023-10-05.jpg",
+      "registrationDeadline": "2023-09-30",
+      "entryFee": 400,
+      "venue": "Akhil Repalle Chess Hall, Jubilee Hills",
+      "contact": {
+        "email": "contact@akhilrepalleacademy.com",
+        "phone": "+91-9876543212"
+      },
+      "organizer": "Akhil Repalle Academy",
+      "additionalDetails": "Special prizes for top performers. Lunch included."
+    },
+    {
+      "tournamentName": "AkhilRepalleAcademy",
+      "isRated": true,
+      "location": "Hyd",
+      "date": "2023-10-05",
+      "filePath": "AkhilRepalleAcademy_Rated_Hyd_2023-10-05.jpg",
+      "registrationDeadline": "2023-09-30",
+      "entryFee": 400,
+      "venue": "Akhil Repalle Chess Hall, Jubilee Hills",
+      "contact": {
+        "email": "contact@akhilrepalleacademy.com",
+        "phone": "+91-9876543212"
+      },
+      "organizer": "Akhil Repalle Academy",
+      "additionalDetails": "Special prizes for top performers. Lunch included."
+    }
+  ]
