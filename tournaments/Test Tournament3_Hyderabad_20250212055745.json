@@ -1,0 +1,15 @@
+{
+  "tournamentName": "Test Tournament3",
+  "isRated": true,
+  "location": "Hyderabad",
+  "date": "2025-02-12",
+  "registrationDeadline": "2025-02-12",
+  "entryFee": 2000,
+  "venue": "Chess Club Hall",
+  "contact": {
+    "email": "test@example.com",
+    "phone": "+919876543210"
+  },
+  "organizer": "Chess Federation",
+  "additionalDetails": "This is a test tournament for rapid chess."
+}
