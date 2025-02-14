@@ -1,0 +1,29 @@
+[
+  {
+    "filePath": "chess1.jpg",
+    "tournamentName": "Grandmaster Championship",
+    "isRated": true,
+    "location": "New York",
+    "date": "2024-03-15",
+    "entryFee": "$200",
+    "organizer": "World Chess Federation"
+  },
+  {
+    "filePath": "chess2.jpg",
+    "tournamentName": "Rapid Chess Open",
+    "isRated": false,
+    "location": "London",
+    "date": "2024-04-20",
+    "entryFee": "Free",
+    "organizer": "UK Chess Club"
+  },
+  {
+    "filePath": "chess3.jpg",
+    "tournamentName": "Women's Chess League",
+    "isRated": true,
+    "location": "Paris",
+    "date": "2024-05-10",
+    "entryFee": "€150",
+    "organizer": "European Chess Union"
+  }
+]
