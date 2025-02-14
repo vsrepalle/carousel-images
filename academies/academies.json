@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Grandmaster Chess Academy",
+    "state": "California",
+    "city": "Los Angeles",
+    "subLocation": "Downtown",
+    "contact": "+1-555-1234",
+    "director": "GM John Smith",
+    "courses": "Beginner to Master",
+    "imageUrl": "https://your-repo/academy1.jpg"
+  },
+  {
+    "name": "West Coast Chess Center",
+    "state": "California",
+    "city": "San Francisco",
+    "subLocation": "Mission District",
+    "contact": "+1-555-5678",
+    "director": "WGM Sarah Johnson",
+    "courses": "Junior Programs",
+    "imageUrl": "https://your-repo/academy2.jpg"
+  }
+]
