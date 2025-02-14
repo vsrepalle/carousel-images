@@ -4,9 +4,53 @@
     "fideId": "45038023",
     "rating": "1600",
     "experience": "5 years",
-    "title":"Arena International Master",
-    "achievements": " Not Mentioned",
+    "title": "Arena International Master",
+    "achievements": "Not Mentioned",
     "profilePic": "assets/images/viswa.jpg"
+  },
+  {
+    "name": "Magnus Carlsen",
+    "fideId": "1503014",
+    "rating": "2830",
+    "experience": "20 years",
+    "title": "Grandmaster",
+    "achievements": "World Chess Champion",
+    "profilePic": "assets/images/magnus.jpg"
+  },
+  {
+    "name": "Fabiano Caruana",
+    "fideId": "2020009",
+    "rating": "2804",
+    "experience": "18 years",
+    "title": "Grandmaster",
+    "achievements": "Candidates Winner",
+    "profilePic": "assets/images/fabiano.jpg"
+  },
+  {
+    "name": "Ding Liren",
+    "fideId": "8603677",
+    "rating": "2780",
+    "experience": "15 years",
+    "title": "Grandmaster",
+    "achievements": "World Champion",
+    "profilePic": "assets/images/ding.jpg"
+  },
+  {
+    "name": "Ian Nepomniachtchi",
+    "fideId": "4168119",
+    "rating": "2771",
+    "experience": "17 years",
+    "title": "Grandmaster",
+    "achievements": "Candidates Finalist",
+    "profilePic": "assets/images/ian.jpg"
+  },
+  {
+    "name": "Alireza Firouzja",
+    "fideId": "12573981",
+    "rating": "2765",
+    "experience": "10 years",
+    "title": "Grandmaster",
+    "achievements": "World Rapid Champion",
+    "profilePic": "assets/images/alireza.jpg"
   }
- 
 ]
