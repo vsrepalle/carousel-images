@@ -7,7 +7,7 @@
     "contact": "+1-555-1234",
     "director": "GM John Smith",
     "courses": "Beginner to Master",
-    "imageUrl": "academy1.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/vsrepalle/carousel-images/stable1/academies/images/academy1.jpg"
   },
   {
     "name": "West Coast Chess Center",
@@ -17,6 +17,6 @@
     "contact": "+1-555-5678",
     "director": "WGM Sarah Johnson",
     "courses": "Junior Programs",
-    "imageUrl": "academy2.jpg"
+     "imageUrl": "https://raw.githubusercontent.com/vsrepalle/carousel-images/stable1/academies/images/academy2.jpg"
   }
 ]
