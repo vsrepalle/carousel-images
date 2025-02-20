@@ -6,6 +6,21 @@
     "endDate" : "06-05-2025",
     "place" : "Karnataka",
     "brochure" : "Download"
-  }
+  },
+   {
+    "name" : "All India Open Motilalji Firodiya Classical Fide Rating Chess Tournament",
+    "eventCode" : "410975",
+    "startDate" : "07-05-2025",
+    "endDate" : "11-05-20205",
+    "place" : "Maharashtra",
+    "brochure" : "Download"
+  }, {
+    "name" : "3rd HDCA all India open fide rating chess tournament 2025",
+    "eventCode" : "400815",
+    "startDate" : "11-05-2025",
+    "endDate" : "15-05-2025",
+    "place" : "Jharkhand",
+    "brochure" : "Download"
+  },
   ]
 }
