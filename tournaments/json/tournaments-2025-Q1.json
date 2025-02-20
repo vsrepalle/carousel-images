@@ -1,0 +1,107 @@
+{
+  "2025-Q1" : [ {
+    "id" : 1,
+    "name" : "Rotary Club of Kalyan International FIDE Rapid Rating Chess Tournament 2025",
+    "eventCode" : "407924",
+    "startDate" : "23-02-2025",
+    "endDate" : "23-02-2025",
+    "place" : "Maharashtra",
+    "brochure" : "Download"
+  }, {
+    "id" : 2,
+    "name" : " ICC International FIDE Rapid Rating Chess Tournament 2025 – 4th Edition",
+    "eventCode" : "408361",
+    "startDate" : "23-02-2025",
+    "endDate" : "23-02-2025",
+    "place" : "Coimbatore",
+    "brochure" : "Download"
+  }, {
+    "id" : 3,
+    "name" : "Morde Foundation All India Open FIDE Rapid Rating Chess Tournament",
+    "eventCode" : "408743",
+    "startDate" : "26-02-2025",
+    "endDate" : "26-02-2025",
+    "place" : "Maharashtra",
+    "brochure" : "Download"
+  }, {
+    "id" : 4,
+    "name" : "G H Raisoni Memorial Chhatrapati Sambhajinagar International FIDE Rapid Rating Chess Tournament 2025",
+    "eventCode" : "409637",
+    "startDate" : "02-03-2025",
+    "endDate" : "02-03-2025",
+    "place" : "Maharashtra",
+    "brochure" : "Download"
+  }, {
+    "id" : 5,
+    "name" : "44th National Team Chess Championship 2024-2025 ",
+    "eventCode" : "404539",
+    "startDate" : "05-03-2025",
+    "endDate" : "11-03-2025",
+    "place" : "Ahmedabad ,Gujarat",
+    "brochure" : "Download"
+  }, {
+    "id" : 6,
+    "name" : "Vidyalankar Institute of Technology’s 1st All India Fide Rapid Rating Chess Tournament ",
+    "eventCode" : "408344",
+    "startDate" : "09-03-2025",
+    "endDate" : "09-03-2025",
+    "place" : "Maharashtra",
+    "brochure" : "Download"
+  }, {
+    "id" : 7,
+    "name" : " Athens of the East 3rd International Blitz Chess Tournament ",
+    "eventCode" : "409636",
+    "startDate" : "09-03-2025",
+    "endDate" : "09-03-2025",
+    "place" : "Madurai",
+    "brochure" : "Download"
+  }, {
+    "id" : 8,
+    "name" : "9th Kurukshetra Open FIDE Rating Chess Tournament",
+    "eventCode" : "397237",
+    "startDate" : "19-03-2025",
+    "endDate" : "23-03-2025",
+    "place" : "Assam",
+    "brochure" : "Download"
+  }, {
+    "id" : 9,
+    "name" : "National Rapid & Blitz Chess Championship",
+    "eventCode" : "406707-09",
+    "startDate" : "20-03-2025",
+    "endDate" : "23-03-2025",
+    "place" : "Jharkhand",
+    "brochure" : "Download"
+  }, {
+    "id" : 10,
+    "name" : "3rd Sakatam Open International FIDE rating Chess Tournament",
+    "eventCode" : "398376",
+    "startDate" : "26-03-2025",
+    "endDate" : "31-03-2025",
+    "place" : "Assam",
+    "brochure" : "Download"
+  }, {
+    "id" : 11,
+    "name" : "DCA OPEN FIDE RATED RAPID CHESS TOURNAMENT-2025",
+    "eventCode" : "407171",
+    "startDate" : "30-03-2025",
+    "endDate" : "31-03-2025",
+    "place" : "Delhi",
+    "brochure" : "Download"
+  }, {
+    "id" : 12,
+    "name" : "4th Tarabai Shinde FIDE Rapid Rating Chess Tournament ",
+    "eventCode" : "394272",
+    "startDate" : "30-03-2025",
+    "endDate" : "30-03-2025",
+    "place" : "Maharashtra",
+    "brochure" : "Download"
+  }, {
+    "id" : 13,
+    "name" : "DCA OPEN FIDE RATED BLITZ CHESS TOURNAMENT-2025",
+    "eventCode" : "407172",
+    "startDate" : "31-03-2025",
+    "endDate" : "31-03-2025",
+    "place" : "Delhi",
+    "brochure" : "Download"
+  } ]
+}

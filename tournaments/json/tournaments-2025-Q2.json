@@ -1,0 +1,115 @@
+{
+  "2025-Q2" : [ {
+    "id" : 14,
+    "name" : "2nd Namma Bengaluru International Grandmasters Open Chess Tournament-2025 (Category A) ",
+    "eventCode" : "395652",
+    "startDate" : "10-04-2025",
+    "endDate" : "18-04-2025",
+    "place" : "Bengaluru",
+    "brochure" : "Download"
+  }, {
+    "id" : 15,
+    "name" : "2nd Namma Bengaluru International Grandmaster Open Chess Tournament-2025 (Category B)",
+    "eventCode" : "395653",
+    "startDate" : "10-04-2025",
+    "endDate" : "13-04-2025",
+    "place" : "Bengaluru",
+    "brochure" : "Download"
+  }, {
+    "id" : 16,
+    "name" : "Kinght Chess Academy Karunagappally 3rd Open FIDE Rated Chess Tournament",
+    "eventCode" : "400021",
+    "startDate" : "10-04-2025",
+    "endDate" : "14-04-2025",
+    "place" : "Kerala",
+    "brochure" : "Download"
+  }, {
+    "id" : 17,
+    "name" : "2nd Namma Bengaluru International Grandmaster Open Chess Tournament-2025 (Category C)",
+    "eventCode" : "395654",
+    "startDate" : "15-04-2025",
+    "endDate" : "18-04-2025",
+    "place" : "Bengaluru",
+    "brochure" : "Download"
+  }, {
+    "id" : 18,
+    "name" : "New Delhi Open International FIDE Rated Classical (Below 1800 ) Chess Tournament",
+    "eventCode" : "400017",
+    "startDate" : "18-04-2025",
+    "endDate" : "20-04-2025",
+    "place" : "Delhi",
+    "brochure" : "Download"
+  }, {
+    "id" : 19,
+    "name" : "1st IVEI FIDE Rapid Rating Chess Tournament 2025",
+    "eventCode" : "405569",
+    "startDate" : "20-04-2025",
+    "endDate" : "202-04-2025",
+    "place" : "Maharashtra",
+    "brochure" : "Download"
+  }, {
+    "id" : 20,
+    "name" : " All India Open FIDE Rated Chess Tournament",
+    "eventCode" : "408761",
+    "startDate" : "02-05-2025",
+    "endDate" : "06-05-2025",
+    "place" : "Karnataka",
+    "brochure" : "Download"
+  }, {
+    "id" : 21,
+    "name" : "All India Open Motilalji Firodiya Classical Fide Rating Chess Tournament",
+    "eventCode" : "410975",
+    "startDate" : "07-05-2025",
+    "endDate" : "11-05-20205",
+    "place" : "Maharashtra",
+    "brochure" : "Download"
+  }, {
+    "id" : 22,
+    "name" : "3rd HDCA all India open fide rating chess tournament 2025",
+    "eventCode" : "400815",
+    "startDate" : "11-05-2025",
+    "endDate" : "15-05-2025",
+    "place" : "Jharkhand",
+    "brochure" : "Download"
+  }, {
+    "id" : 23,
+    "name" : " Annai Arul 1st International FIDE Rated Chess Tournament",
+    "eventCode" : "410980",
+    "startDate" : "21-05-2025",
+    "endDate" : "25-01-2025",
+    "place" : "Tamil Nadu",
+    "brochure" : "Download"
+  }, {
+    "id" : 24,
+    "name" : "34th Cusat FIDE Rated Chess Tournament",
+    "eventCode" : "408886",
+    "startDate" : "24-05-2025",
+    "endDate" : "27-05-2025",
+    "place" : "Kerala",
+    "brochure" : "Download"
+  }, {
+    "id" : 25,
+    "name" : " 21st Delhi International Open Grandmasters Chess Tournament-2025 (Category ‘A’)",
+    "eventCode" : "409272",
+    "startDate" : "07-06-2025",
+    "endDate" : "14-06-2025",
+    "place" : "Delhi",
+    "brochure" : "Download"
+  }, {
+    "id" : 26,
+    "name" : " 21st Delhi International Open Grandmasters Chess Tournament-2025 (Category ‘B’)",
+    "eventCode" : "409274",
+    "startDate" : "07-06-2025",
+    "endDate" : "10-06-2025",
+    "place" : "Delhi",
+    "brochure" : "Download"
+  }, {
+    "id" : 27,
+    "name" : " 21st Delhi International Open Grandmasters Chess Tournament-2025 (Category ‘C’)",
+    "eventCode" : "409278",
+    "startDate" : "11-06-2025",
+    "endDate" : "14-06-2025",
+    "place" : "Delhi",
+    "brochure" : "Download"
+  } ]
+}
