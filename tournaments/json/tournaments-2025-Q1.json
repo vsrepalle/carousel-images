@@ -1,11 +1,175 @@
 {
-  "2025-Q1" : [ {
-    "id" : 1,
-    "name" : "Rotary Club of Kalyan International FIDE Rapid Rating Chess Tournament 2025",
-    "eventCode" : "407924",
-    "startDate" : "23-02-2025",
-    "endDate" : "23-02-2025",
-    "place" : "Maharashtra",
-    "brochure" : "Download"
-  }]
+  "2025-Q1": [
+    {
+      "id": 1,
+      "name": "Rotary Club of Kalyan International FIDE Rapid Rating Chess Tournament 2025",
+      "eventCode": "407924",
+      "startDate": "23-02-2025",
+      "endDate": "23-02-2025",
+      "place": "Mumbai",
+      "brochure": "Download"
+    },
+    {
+      "id": 2,
+      "name": "Delhi Grandmasters Open Chess Championship 2025",
+      "eventCode": "395652",
+      "startDate": "10-01-2025",
+      "endDate": "15-01-2025",
+      "place": "New Delhi",
+      "brochure": "Download"
+    },
+    {
+      "id": 3,
+      "name": "Karnataka Open Chess Tournament 2025",
+      "eventCode": "397237",
+      "startDate": "05-02-2025",
+      "endDate": "09-02-2025",
+      "place": "Bengaluru",
+      "brochure": "Download"
+    },
+    {
+      "id": 4,
+      "name": "Tamil Nadu State Chess Championship 2025",
+      "eventCode": "398376",
+      "startDate": "12-02-2025",
+      "endDate": "16-02-2025",
+      "place": "Chennai",
+      "brochure": "Download"
+    },
+    {
+      "id": 5,
+      "name": "Kerala Rapid Chess Open 2025",
+      "eventCode": "400017",
+      "startDate": "18-02-2025",
+      "endDate": "21-02-2025",
+      "place": "Thiruvananthapuram",
+      "brochure": "Download"
+    },
+    {
+      "id": 6,
+      "name": "Telangana State Open Chess Tournament 2025",
+      "eventCode": "400022",
+      "startDate": "25-02-2025",
+      "endDate": "28-02-2025",
+      "place": "Hyderabad",
+      "brochure": "Download"
+    },
+    {
+      "id": 7,
+      "name": "West Bengal International Chess Festival 2025",
+      "eventCode": "400815",
+      "startDate": "02-03-2025",
+      "endDate": "07-03-2025",
+      "place": "Kolkata",
+      "brochure": "Download"
+    },
+    {
+      "id": 8,
+      "name": "Madhya Pradesh Chess Grand Prix 2025",
+      "eventCode": "405569",
+      "startDate": "10-03-2025",
+      "endDate": "15-03-2025",
+      "place": "Bhopal",
+      "brochure": "Download"
+    },
+    {
+      "id": 9,
+      "name": "Gujarat Open Chess Championship 2025",
+      "eventCode": "407171",
+      "startDate": "17-03-2025",
+      "endDate": "20-03-2025",
+      "place": "Gandhinagar",
+      "brochure": "Download"
+    },
+    {
+      "id": 10,
+      "name": "Rajasthan Blitz Chess Open 2025",
+      "eventCode": "408344",
+      "startDate": "22-03-2025",
+      "endDate": "25-03-2025",
+      "place": "Jaipur",
+      "brochure": "Download"
+    },
+    {
+      "id": 11,
+      "name": "Punjab State Chess Challenge 2025",
+      "eventCode": "408743",
+      "startDate": "28-03-2025",
+      "endDate": "30-03-2025",
+      "place": "Chandigarh",
+      "brochure": "Download"
+    },
+    {
+      "id": 12,
+      "name": "Andhra Pradesh Chess Carnival 2025",
+      "eventCode": "409272",
+      "startDate": "02-04-2025",
+      "endDate": "06-04-2025",
+      "place": "Amaravati",
+      "brochure": "Download"
+    },
+    {
+      "id": 13,
+      "name": "Odisha Rapid Chess Championship 2025",
+      "eventCode": "409636",
+      "startDate": "08-04-2025",
+      "endDate": "11-04-2025",
+      "place": "Bhubaneswar",
+      "brochure": "Download"
+    },
+    {
+      "id": 14,
+      "name": "Bihar Open Chess Tournament 2025",
+      "eventCode": "409637",
+      "startDate": "13-04-2025",
+      "endDate": "16-04-2025",
+      "place": "Patna",
+      "brochure": "Download"
+    },
+    {
+      "id": 15,
+      "name": "Uttar Pradesh Chess Championship 2025",
+      "eventCode": "410047",
+      "startDate": "18-04-2025",
+      "endDate": "22-04-2025",
+      "place": "Lucknow",
+      "brochure": "Download"
+    },
+    {
+      "id": 16,
+      "name": "Jharkhand Chess Open 2025",
+      "eventCode": "410807",
+      "startDate": "24-04-2025",
+      "endDate": "28-04-2025",
+      "place": "Ranchi",
+      "brochure": "Download"
+    },
+    {
+      "id": 17,
+      "name": "Haryana Rapid Chess League 2025",
+      "eventCode": "410980",
+      "startDate": "30-04-2025",
+      "endDate": "03-05-2025",
+      "place": "Chandigarh",
+      "brochure": "Download"
+    },
+    {
+      "id": 18,
+      "name": "Chhattisgarh Chess Blitz Open 2025",
+      "eventCode": "411920",
+      "startDate": "05-05-2025",
+      "endDate": "08-05-2025",
+      "place": "Raipur",
+      "brochure": "Download"
+    },
+    {
+      "id": 19,
+      "name": "Assam Grand Chess Championship 2025",
+      "eventCode": "411958",
+      "startDate": "10-05-2025",
+      "endDate": "14-05-2025",
+      "place": "Dispur",
+      "brochure": "Download"
+    }
+  ]
 }
