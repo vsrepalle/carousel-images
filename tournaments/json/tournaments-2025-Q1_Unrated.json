@@ -1,0 +1,24 @@
+[
+    {
+      "name": "Hyderabad Local Blitz 2025",
+      "startDate": "03-03-2025",
+      "endDate": "03-03-2025",
+      "place": "Hyderabad",
+      "isRated": false,
+      "imageUrl": "https://raw.githubusercontent.com/vsrepalle/carousel-images/470b214af5de0735f289fc6c0203a104163cd582/tournaments/images/jpg/unrated/Hyderabad_Local_Blitz_2025_page1.jpg",
+      "allPageUrls": [
+        "https://raw.githubusercontent.com/vsrepalle/carousel-images/470b214af5de0735f289fc6c0203a104163cd582/tournaments/images/jpg/unrated/Hyderabad_Local_Blitz_2025_page1.jpg"
+      ]
+    },
+    {
+      "name": "Bangalore Local Open 2025",
+      "startDate": "05-03-2025",
+      "endDate": "05-03-2025",
+      "place": "Bangalore",
+      "isRated": false,
+      "imageUrl": "https://raw.githubusercontent.com/vsrepalle/carousel-images/470b214af5de0735f289fc6c0203a104163cd582/tournaments/images/jpg/unrated/Bangalore_Local_Open_2025_page1.jpg",
+      "allPageUrls": [
+        "https://raw.githubusercontent.com/vsrepalle/carousel-images/470b214af5de0735f289fc6c0203a104163cd582/tournaments/images/jpg/unrated/Bangalore_Local_Open_2025_page1.jpg"
+      ]
+    }
+  ]
